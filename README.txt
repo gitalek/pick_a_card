@@ -1,0 +1,1 @@
+The program helps you to pick a random card :)
